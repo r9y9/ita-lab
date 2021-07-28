@@ -1,0 +1,15 @@
+0 11900001 xx^xx-sil+n=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_8/K:1+2-8
+11900001 12303913 xx^sil-n+e=g/A:-1+1+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_2|1_8/G:4_3%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+12303913 13239266 sil^n-e+g=a/A:-1+1+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_2|1_8/G:4_3%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+13239266 13763841 n^e-g+a=i/A:0+2+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_2|1_8/G:4_3%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+13763841 15051685 e^g-a+i=o/A:0+2+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_2|1_8/G:4_3%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+15051685 16181325 g^a-i+o=k/A:1+3+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_2|1_8/G:4_3%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+16181325 17494149 a^i-o+k=a/A:2+4+1/B:02-xx_xx/C:13_xx+xx/D:20+3_2/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_2|1_8/G:4_3%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+17494149 18193582 i^o-k+a=n/A:-2+1+4/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+18193582 19106731 o^k-a+n=a/A:-2+1+4/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+19106731 19767306 k^a-n+a=e/A:-1+2+3/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+19767306 21213356 a^n-a+e=r/A:-1+2+3/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+21213356 21876707 n^a-e+r=u/A:0+3+2/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+21876707 22206995 a^e-r+u=sil/A:1+4+1/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+22206995 23583657 e^r-u+sil=xx/A:1+4+1/B:13-xx_xx/C:20_3+2/D:xx+xx_xx/E:4_2!0_xx-1/F:4_3#0_xx@2_1|5_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+23583657 33966666 r^u-sil+xx=xx/A:xx+xx+xx/B:20-3_2/C:xx_xx+xx/D:xx+xx_xx/E:4_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:2_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+2-8

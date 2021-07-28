@@ -1,0 +1,14 @@
+0 19050000 xx^xx-sil+b=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_7%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_7/K:1+1-7
+19050000 19481427 xx^sil-b+u=r/A:-6+1+7/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+19481427 20450000 sil^b-u+r=e/A:-6+1+7/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+20450000 20910824 b^u-r+e=N/A:-5+2+6/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+20910824 22936959 u^r-e+N=d/A:-5+2+6/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+22936959 23703004 r^e-N+d=o/A:-4+3+5/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+23703004 24069374 e^N-d+o=dy/A:-3+4+4/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+24069374 25190687 N^d-o+dy=o/A:-3+4+4/B:xx-xx_xx/C:03_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+25190687 26228734 d^o-dy+o=o/A:-2+5+3/B:03-xx_xx/C:09_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+26228734 27225149 o^dy-o+o=t/A:-2+5+3/B:03-xx_xx/C:09_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+27225149 28500000 dy^o-o+t=o/A:-1+6+2/B:03-xx_xx/C:09_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+28500000 28887690 o^o-t+o=sil/A:0+7+1/B:09-xx_xx/C:09_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+28887690 31083132 o^t-o+sil=xx/A:0+7+1/B:09-xx_xx/C:09_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-7@1+1&1-1|1+7/J:xx_xx/K:1+1-7
+31083132 37966666 t^o-sil+xx=xx/A:xx+xx+xx/B:09-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-7

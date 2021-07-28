@@ -1,0 +1,14 @@
+0 15000000 xx^xx-sil+h=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_8/K:1+2-8
+15000000 15850000 xx^sil-h+o=o/A:-2+1+6/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+15850000 16900000 sil^h-o+o=m/A:-2+1+6/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+16900000 17950000 h^o-o+m=u/A:-1+2+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+17950000 18487788 o^o-m+u=r/A:0+3+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+18487788 19400937 o^m-u+r=a/A:0+3+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+19400937 19742327 m^u-r+a=N/A:1+4+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+19742327 21130090 u^r-a+N=o/A:1+4+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+21130090 22068219 r^a-N+o=u/A:2+5+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+22068219 23239491 a^N-o+u=ts/A:3+6+1/B:02-xx_xx/C:13_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_2|1_8/G:2_1%0_xx_1/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+23239491 24649459 N^o-u+ts=u/A:0+1+2/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:6_3!0_xx-1/F:2_1#0_xx@2_1|7_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+24649459 25726364 o^u-ts+u=sil/A:1+2+1/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:6_3!0_xx-1/F:2_1#0_xx@2_1|7_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+25726364 27474946 u^ts-u+sil=xx/A:1+2+1/B:13-xx_xx/C:20_1+2/D:xx+xx_xx/E:6_3!0_xx-1/F:2_1#0_xx@2_1|7_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:2-8@1+1&1-2|1+8/J:xx_xx/K:1+2-8
+27474946 36633333 ts^u-sil+xx=xx/A:xx+xx+xx/B:20-1_2/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:2_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+2-8

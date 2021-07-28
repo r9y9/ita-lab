@@ -1,0 +1,16 @@
+0 15273727 xx^xx-sil+hy=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+3-9
+15273727 16175774 xx^sil-hy+e=e/A:0+1+3/B:xx-xx_xx/C:09_xx+xx/D:10+6_2/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+3&1-3|1+9/J:1_3/K:3+3-9
+16175774 18450000 sil^hy-e+e=N/A:0+1+3/B:xx-xx_xx/C:09_xx+xx/D:10+6_2/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+3&1-3|1+9/J:1_3/K:3+3-9
+18450000 20527801 hy^e-e+N=pau/A:1+2+2/B:xx-xx_xx/C:09_xx+xx/D:10+6_2/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+3&1-3|1+9/J:1_3/K:3+3-9
+20527801 21765686 e^e-N+pau=by/A:2+3+1/B:09-xx_xx/C:10_6+2/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:xx_xx/I:1-3@1+3&1-3|1+9/J:1_3/K:3+3-9
+21765686 33550000 e^N-pau+by=e/A:xx+xx+xx/B:10-6_2/C:xx_xx+xx/D:09+xx_xx/E:3_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+3-9
+33550000 34383234 N^pau-by+e=e/A:0+1+3/B:10-6_2/C:09_xx+xx/D:10+6_2/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:1_3/I:1-3@2+2&2-2|4+6/J:1_3/K:3+3-9
+34383234 36595329 pau^by-e+e=N/A:0+1+3/B:10-6_2/C:09_xx+xx/D:10+6_2/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:1_3/I:1-3@2+2&2-2|4+6/J:1_3/K:3+3-9
+36595329 38810200 by^e-e+N=pau/A:1+2+2/B:10-6_2/C:09_xx+xx/D:10+6_2/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:1_3/I:1-3@2+2&2-2|4+6/J:1_3/K:3+3-9
+38810200 40020330 e^e-N+pau=py/A:2+3+1/B:09-xx_xx/C:10_6+2/D:09+xx_xx/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:3_1%0_xx_0/H:1_3/I:1-3@2+2&2-2|4+6/J:1_3/K:3+3-9
+40020330 53100000 e^N-pau+py=e/A:xx+xx+xx/B:10-6_2/C:xx_xx+xx/D:09+xx_xx/E:3_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+3-9
+53100000 54122785 N^pau-py+e=e/A:0+1+3/B:10-6_2/C:09_xx+xx/D:10+6_2/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_3/I:1-3@3+1&3-1|7+3/J:xx_xx/K:3+3-9
+54122785 56525000 pau^py-e+e=N/A:0+1+3/B:10-6_2/C:09_xx+xx/D:10+6_2/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_3/I:1-3@3+1&3-1|7+3/J:xx_xx/K:3+3-9
+56525000 58799549 py^e-e+N=sil/A:1+2+2/B:10-6_2/C:09_xx+xx/D:10+6_2/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_3/I:1-3@3+1&3-1|7+3/J:xx_xx/K:3+3-9
+58799549 60178986 e^e-N+sil=xx/A:2+3+1/B:09-xx_xx/C:10_6+2/D:xx+xx_xx/E:3_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_3/I:1-3@3+1&3-1|7+3/J:xx_xx/K:3+3-9
+60178986 74600000 e^N-sil+xx=xx/A:xx+xx+xx/B:10-6_2/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:3+3-9

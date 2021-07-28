@@ -1,0 +1,14 @@
+0 17500000 xx^xx-sil+ky=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:3+3-7
+17500000 18859709 xx^sil-ky+e=e/A:0+1+2/B:xx-xx_xx/C:09_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_1%0_xx_0/H:xx_xx/I:1-2@1+3&1-3|1+7/J:1_2/K:3+3-7
+18859709 21275000 sil^ky-e+e=pau/A:0+1+2/B:xx-xx_xx/C:09_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_1%0_xx_0/H:xx_xx/I:1-2@1+3&1-3|1+7/J:1_2/K:3+3-7
+21275000 23653045 ky^e-e+pau=gy/A:1+2+1/B:xx-xx_xx/C:09_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_1%0_xx_0/H:xx_xx/I:1-2@1+3&1-3|1+7/J:1_2/K:3+3-7
+23653045 32850000 e^e-pau+gy=e/A:xx+xx+xx/B:09-xx_xx/C:xx_xx+xx/D:09+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:3+3-7
+32850000 33958578 e^pau-gy+e=e/A:0+1+2/B:09-xx_xx/C:09_xx+xx/D:09+xx_xx/E:2_1!0_xx-0/F:2_1#0_xx@1_1|1_2/G:3_1%0_xx_0/H:1_2/I:1-2@2+2&2-2|3+5/J:1_3/K:3+3-7
+33958578 36625000 pau^gy-e+e=pau/A:0+1+2/B:09-xx_xx/C:09_xx+xx/D:09+xx_xx/E:2_1!0_xx-0/F:2_1#0_xx@1_1|1_2/G:3_1%0_xx_0/H:1_2/I:1-2@2+2&2-2|3+5/J:1_3/K:3+3-7
+36625000 39300000 gy^e-e+pau=y/A:1+2+1/B:09-xx_xx/C:09_xx+xx/D:09+xx_xx/E:2_1!0_xx-0/F:2_1#0_xx@1_1|1_2/G:3_1%0_xx_0/H:1_2/I:1-2@2+2&2-2|3+5/J:1_3/K:3+3-7
+39300000 48224789 e^e-pau+y=e/A:xx+xx+xx/B:09-xx_xx/C:xx_xx+xx/D:09+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+3-7
+48224789 49407164 e^pau-y+e=e/A:0+1+3/B:09-xx_xx/C:09_xx+xx/D:09+xx_xx/E:2_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_2/I:1-3@3+1&3-1|5+3/J:xx_xx/K:3+3-7
+49407164 52850000 pau^y-e+e=i/A:0+1+3/B:09-xx_xx/C:09_xx+xx/D:09+xx_xx/E:2_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_2/I:1-3@3+1&3-1|5+3/J:xx_xx/K:3+3-7
+52850000 55124750 y^e-e+i=sil/A:1+2+2/B:09-xx_xx/C:09_xx+xx/D:09+xx_xx/E:2_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_2/I:1-3@3+1&3-1|5+3/J:xx_xx/K:3+3-7
+55124750 57209171 e^e-i+sil=xx/A:2+3+1/B:09-xx_xx/C:09_xx+xx/D:xx+xx_xx/E:2_1!0_xx-0/F:3_1#0_xx@1_1|1_3/G:xx_xx%xx_xx_xx/H:1_2/I:1-3@3+1&3-1|5+3/J:xx_xx/K:3+3-7
+57209171 72600000 e^i-sil+xx=xx/A:xx+xx+xx/B:09-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:3+3-7

@@ -1,0 +1,17 @@
+0 11400000 xx^xx-sil+n=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_9/K:1+3-9
+11400000 11934768 xx^sil-n+a=f/A:-3+1+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+11934768 12720242 sil^n-a+f=u/A:-3+1+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+12720242 13558452 n^a-f+u=d/A:-2+2+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+13558452 14196823 a^f-u+d=a/A:-2+2+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+14196823 14602050 f^u-d+a=o/A:-1+3+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+14602050 15726138 u^d-a+o=y/A:-1+3+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+15726138 17050000 d^a-o+y=o/A:0+4+1/B:02-xx_xx/C:13_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:4_4#0_xx@1_3|1_9/G:3_1%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+17050000 17652354 a^o-y+o=o/A:0+1+3/B:13-xx_xx/C:03_xx+xx/D:20+4_2/E:4_4!0_xx-1/F:3_1#0_xx@2_2|5_5/G:2_2%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+17652354 18675000 o^y-o+o=i/A:0+1+3/B:13-xx_xx/C:03_xx+xx/D:20+4_2/E:4_4!0_xx-1/F:3_1#0_xx@2_2|5_5/G:2_2%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+18675000 19500000 y^o-o+i=s/A:1+2+2/B:13-xx_xx/C:03_xx+xx/D:20+4_2/E:4_4!0_xx-1/F:3_1#0_xx@2_2|5_5/G:2_2%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+19500000 20280779 o^o-i+s=u/A:2+3+1/B:13-xx_xx/C:03_xx+xx/D:20+4_2/E:4_4!0_xx-1/F:3_1#0_xx@2_2|5_5/G:2_2%0_xx_1/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+20280779 20885844 o^i-s+u=r/A:-1+1+2/B:03-xx_xx/C:20_4+2/D:xx+xx_xx/E:3_1!0_xx-1/F:2_2#0_xx@3_1|8_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+20885844 21912789 i^s-u+r=u/A:-1+1+2/B:03-xx_xx/C:20_4+2/D:xx+xx_xx/E:3_1!0_xx-1/F:2_2#0_xx@3_1|8_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+21912789 22329118 s^u-r+u=sil/A:0+2+1/B:03-xx_xx/C:20_4+2/D:xx+xx_xx/E:3_1!0_xx-1/F:2_2#0_xx@3_1|8_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+22329118 23769617 u^r-u+sil=xx/A:0+2+1/B:03-xx_xx/C:20_4+2/D:xx+xx_xx/E:3_1!0_xx-1/F:2_2#0_xx@3_1|8_2/G:xx_xx%xx_xx_xx/H:xx_xx/I:3-9@1+1&1-3|1+9/J:xx_xx/K:1+3-9
+23769617 33633333 r^u-sil+xx=xx/A:xx+xx+xx/B:20-4_2/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:3_9/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+3-9
