@@ -1,0 +1,6 @@
+0 12800000 xx^xx-sil+i=cl/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:20+1_1/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_4/K:1+1-4
+12800000 14296742 xx^sil-i+cl=i/A:-1+1+4/B:xx-xx_xx/C:20_1+1/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+14296742 15950000 sil^i-cl+i=e/A:0+2+3/B:xx-xx_xx/C:20_1+1/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+15950000 17524680 i^cl-i+e=sil/A:1+3+2/B:20-1_1/C:09_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+17524680 20044859 cl^i-e+sil=xx/A:2+4+1/B:20-1_1/C:09_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_2#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+20044859 37633333 i^e-sil+xx=xx/A:xx+xx+xx/B:09-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-4

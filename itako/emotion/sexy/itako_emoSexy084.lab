@@ -1,0 +1,10 @@
+0 13000000 xx^xx-sil+j=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_4/K:1+1-4
+13000000 13627840 xx^sil-j+a=dy/A:-2+1+4/B:xx-xx_xx/C:02_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+13627840 14640907 sil^j-a+dy=a/A:-2+1+4/B:xx-xx_xx/C:02_xx+xx/D:09+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+14640907 15831608 j^a-dy+a=k/A:-1+2+3/B:02-xx_xx/C:09_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+15831608 17219372 a^dy-a+k=u/A:-1+2+3/B:02-xx_xx/C:09_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+17219372 17921581 dy^a-k+u=sh/A:0+3+2/B:09-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+17921581 18398971 a^k-u+sh=u/A:0+3+2/B:09-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+18398971 19883879 k^u-sh+u=sil/A:1+4+1/B:09-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+19883879 20938579 u^sh-u+sil=xx/A:1+4+1/B:09-xx_xx/C:02_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-4@1+1&1-1|1+4/J:xx_xx/K:1+1-4
+20938579 41950208 sh^u-sil+xx=xx/A:xx+xx+xx/B:02-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-4
