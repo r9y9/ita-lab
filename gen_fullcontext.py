@@ -14,7 +14,7 @@ ita_db_root = Path("/home/ryuichi/data/ita")
 out_dir = Path("/home/ryuichi/data/ita-lab")
 
 
-def get_valid_utts(spk, emotion):
+def get_valid_utts(spk, emotion, allow_g2p_errors=False):
     N = 0
     cnt = 0
     utt_ids, texts = [], []
@@ -57,11 +57,12 @@ def get_valid_utts(spk, emotion):
                 openjtalk_input = text
             # G2p errors, but phones are correct
             elif len(ph_from_mora) == len(ph_in_lab):
-                ok = True
+                ok = allow_g2p_errors
                 openjtalk_input = mora
-                logger.warning(f"{utt_id}: found G2P errors")
-                logger.debug(f"Labels: {ph_in_lab}")
-                logger.debug(f"Open JTalk results: {ph_from_text}")
+                if ok:
+                    logger.warning(f"{utt_id}: found G2P errors")
+                    logger.debug(f"Labels: {ph_in_lab}")
+                    logger.debug(f"Open JTalk results: {ph_from_text}")
             else:
                 ok = False
                 openjtalk_input = None
